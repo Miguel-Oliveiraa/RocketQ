@@ -24,3 +24,13 @@ $ yarn start
 ou
 $ npm start
 ```
+### Agora você pode ver o resultado
+
+> Tela inicial
+>> http://localhost:3000/
+
+> Criar sala
+>> http://localhost:3000/create-pass
+
+> Salas
+>> http://localhost:3000/room
