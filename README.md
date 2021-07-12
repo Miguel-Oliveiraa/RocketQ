@@ -6,7 +6,8 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -35,7 +36,7 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## Executar o Projeto
+## Executar
 Primeiro faça um clone desse repositório.
 ```
 $ git clone https://github.com/migasrcf/rocketQ.git
@@ -61,7 +62,7 @@ $ yarn start
 ou
 $ npm start
 ```
-### Agora você pode ver o resultado
+## Resultado
 
 > Tela inicial
 >> http://localhost:3000/
